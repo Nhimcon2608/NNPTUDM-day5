@@ -1,0 +1,17 @@
+{
+  "name": "nnptudm-day5",
+  "version": "1.0.0",
+  "description": "Express + Mongoose API for User and Role management",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
